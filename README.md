@@ -1,4 +1,4 @@
-# Day #10
+# Project Weather App
 
 ### Weather App
 I am gonna showing to you how to code a weather app with javascript. In this tutorial also we use a weather api and we get data from api❗️
